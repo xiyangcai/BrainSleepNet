@@ -1,4 +1,4 @@
-# BrainPrintNet
+# BrainSleepNet
 
 BrainSleepNet: Learning Multivariate EEG Representation for Automatic Sleep Staging
 
